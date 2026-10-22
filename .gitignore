@@ -1,0 +1,11 @@
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.env
+frontend/node_modules/
+node_modules/
+.vscode/
+# Vehicle command runtime files
+backend/.vehicle_runtime/
